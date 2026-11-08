@@ -7,7 +7,7 @@ Live at **https://shashankabcbuilds.in/housewarming-Usha-Chethan/**
 | File | What it is |
 |---|---|
 | `index.html` | The invitation page (door, cards, scratch card, countdown, venue) |
-| `bg2.png` | Background image |
+| `frame-scroll.jpg` | Parchment scroll frame |
 | `music.mp3` | Background music |
 | `preview.jpg` | Banner shown when the link is shared on WhatsApp |
 
